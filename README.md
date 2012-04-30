@@ -1,7 +1,7 @@
 gemwhisperer
 ============
 
-This is an example application that uses the RubyGems webhook system to post Twitter updates about gems.
+This is an application that uses the RubyGems webhook system to post Twitter updates about new gems.
 
 Check out more information about [webhooks](https://rubygems.org/pages/api_docs#webhook).
 
